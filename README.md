@@ -1,6 +1,18 @@
-# AI TestBluePrint4X
+# AITester Blueprint 4x
 
-Project description coming soon.
+AI-powered test automation blueprint.
+
+## Overview
+
+AITester Blueprint 4x Where we will learn about a lot of things related to:
+- AI Agent
+- MCPs
+- RAG
+- LLM evaluations
+- Langchain
+- Langflow
+- ATAN
+- and many more things which will make us the AI-powered tester
 
 ## Getting Started
 
@@ -14,7 +26,6 @@ Makes the AI agent answer in terse caveman-speak — same answers, ~65% fewer ou
 irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | iex
 ```
 
+## License
 
-## Overview
-
-This is my AI tester 4X batch
+MIT
